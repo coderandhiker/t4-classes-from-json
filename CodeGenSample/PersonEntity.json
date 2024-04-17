@@ -1,0 +1,13 @@
+{
+  "properties": {
+    "Name": {
+      "type": "string"
+    },
+    "Age": {
+      "type": "int"
+    },
+    "Email": {
+      "type": "string"
+    }
+  }
+}
